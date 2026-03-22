@@ -1,6 +1,6 @@
-# Chaker Moslem
+# Moslem CHALFOUH
 
-**AI Software Architect & Tech Lead**
+** Software Architect & Tech Lead**
 
 Designing distributed systems that scale. Building AI-powered products that ship.
 
@@ -8,7 +8,7 @@ Designing distributed systems that scale. Building AI-powered products that ship
 
 ## Stack
 
-**Backend** — Java · Spring Boot · Quarkus
+**Backend** — Java · Spring Boot · 
 **Messaging** — Apache Kafka · Event-Driven Architecture · Transactional Outbox
 **Cloud** — AWS · Bedrock · Terraform
 **Architecture** — Hexagonal · Domain-Driven Design · Microservices
@@ -31,7 +31,7 @@ Designing distributed systems that scale. Building AI-powered products that ship
 |---|---|
 | [event-driven-outbox](https://github.com/cmoslem/event-driven-outbox) | Transactional Outbox: guaranteed delivery from PostgreSQL to Kafka |
 | [terraform-bedrock-rag](https://github.com/cmoslem/terraform-bedrock-rag) | RAG chatbot on AWS Bedrock, deployed with Terraform |
-| [open-webui-GCP](https://github.com/cmoslem/open-webui-GCP) | LLM WebUI self-hosted on GCP |
+| 
 
 ---
 
