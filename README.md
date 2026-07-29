@@ -37,13 +37,14 @@ Designing distributed systems that scale. Building AI-powered products that ship
 
 ## Writing
 
-Articles published on [Medium / AWS Tip](https://medium.com/@cmoslem):
+Articles on [Medium / AWS Tip](https://medium.com/@cmoslem) and guest posts elsewhere:
 
 | Article | Topic |
 |---|---|
 | [Kafka Retry Done Right: The Day I Chose a Simpler Fix Over @RetryableTopic](https://medium.com/@cmoslem/kafka-retry-done-right-the-day-i-chose-a-simpler-fix-over-retryabletopic-c033b065ac0d) | Kafka · Spring Boot |
 | [What I Learned Deploying My First RAG System on AWS Bedrock](https://medium.com/@cmoslem/what-i-learned-deploying-my-first-rag-system-on-aws-bedrock-b90eee9a2816) | RAG · AWS Bedrock · Terraform |
 | [ECS, Lambda, or EC2? How Hexagonal Architecture Made the Choice Irrelevant](https://medium.com/@cmoslem/ecs-lambda-or-ec2-how-hexagonal-architecture-made-the-choice-irrelevant-e75d921cc5c4) | Hexagonal Architecture · AWS |
+| [RBAC for Kafka: How to Implement and Key Considerations](https://factorhouse.io/articles/rbac-for-kafka-how-to-implement-and-key-considerations) | Kafka · RBAC · Security (Factor House) |
 
 ---
 
