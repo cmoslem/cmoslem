@@ -31,7 +31,7 @@ Designing distributed systems that scale. Building AI-powered products that ship
 |---|---|
 | [event-driven-outbox](https://github.com/cmoslem/event-driven-outbox) | Transactional Outbox: guaranteed delivery from PostgreSQL to Kafka |
 | [terraform-bedrock-rag](https://github.com/cmoslem/terraform-bedrock-rag) | RAG chatbot on AWS Bedrock, deployed with Terraform |
-| 
+| [msk-retry-lab](https://github.com/cmoslem/msk-retry-lab) | Implicit vs explicit Lambda retry for MSK triggers, with Kafka DLT routing |
 
 ---
 
